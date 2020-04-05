@@ -7,11 +7,11 @@ h2 {
 .h3 {
   padding-top: 10px;
 }
-/* //WELCOME */
+
 .well {
   padding: 50px;
   background-color: black;
-  background-image: url("../images/wall.jpg");
+  background-image: url("/assets/backgrounds/h_img.jpg");
   height: 100%;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -46,7 +46,6 @@ img {
   padding-bottom: 10px;
   padding-top: 10px;
 }
-/* //ABOUT */
 
 .about {
   padding: 30px;
@@ -54,10 +53,10 @@ img {
   color: black;
   font-size: 15px;
 }
-/* //SERVICES */
+
 .services {
   padding: 85px;
-  background-image: url("../images/lappy.jpg");
+  background-image: url("/assets/backgrounds/s_image.jpg");
   background-repeat: no-repeat;
 }
 
@@ -65,7 +64,7 @@ img {
   color: white;
   font-size: 15px;
 }
-/* //WHAT WE DO */
+
 .wwd {
   padding: 50px;
 }
@@ -81,7 +80,7 @@ img {
 .toast {
   display: none;
 }
-/* //TABLE */
+
 .table {
   padding-top: 20px;
   margin-left: 20px;
@@ -91,18 +90,18 @@ img {
 .caption {
   font-size: 12px;
 }
-/* //PORTFOLIO */
+
 .portfolio {
   align-content: center;
   align-items: center;
   align-self: center;
   padding-bottom: 40px;
 }
-/* //CONTACT */
+
 .contact {
   padding-top: 35px;
   padding-bottom: 40px;
-  background-image: url("../images/machine.jpg");
+  background-image: url("/assets/backgrounds/c_image.jpg");
   background-repeat: no-repeat;
 }
 .contact-us {
@@ -168,7 +167,6 @@ div.contact-btn button:hover {
   background: transparent;
   color: white;
 }
-/* //FOOTER */
 
 .foot-img {
   margin-bottom: 10px;
