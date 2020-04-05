@@ -1,35 +1,38 @@
-# {Application Name}
+# DELANI STUDIO PROJECT
 
-#### {Brief description of application}, {Date of current version}
+#### This project is a landing page for a fictional studio under the name Delani Studio.
 
-#### By **{List of contributors}**
+Latest updated version is on 5th April 2020.
+
+#### By Christine Mugambi.
 
 ## Description
 
-{This is a detailed description of your application, including its purpose and usage. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+Delani Studio is a project aimed to create a software development site for companies. It has the following sections:
 
-## Setup/Installation Requirements
-
-- This is a great place
-- to list setup instructions
-- in a simple
-- easy-to-understand
-- format
-  {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+- Welcome page
+- About us
+- Services
+- What we do
+- Portfolio
+- Contact us
+- Social media handles
 
 ## Known Bugs
 
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+There are no known bugs in this application, nor any issues with it. Hence, the site and application runs smoothly and effectively.
 
 ## Technologies Used
 
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+The site was created using HTML and JavaScript as the primary languages, with Visual Studio Code as the editor. Also, CSS, BootstrapCSS and jQuery were used for styling the site.
 
 ## Support and contact details
 
-{Let people know what to do if they run into any issues or have questions, ideas or concerns. Encourage them to contact you or make a contribution to the code.}
+For any issues, queries, or concerns about this project/site, kindly reach out to me through these handles:
+Gmail : njeri.mugamby@gmail.com
+Yahoo : njeri.mugamby21@yahoo.com
 
 ### License
 
-_{Determine the license under which this application can be used. See below for more details on licensing.}_
-Copyright (c) {year} **{List of contributors or company name}**
+MIT License
+Copyright (c) 2020 Christine Mugambi.
