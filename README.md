@@ -2,7 +2,7 @@
 
 #### This project is a landing page for a fictional studio under the name Delani Studio.
 
-Latest updated version is on 5th April 2020.
+Latest updated version is on 9th April 2020.
 
 #### By Christine Mugambi.
 
