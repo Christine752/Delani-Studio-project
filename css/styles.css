@@ -4,6 +4,7 @@ html {
 
 body {
   border: 20px solid white;
+  font-family: "Merriweather", serif;
 }
 
 h2 {
@@ -16,9 +17,10 @@ h2 {
 .well {
   padding: 50px;
   background-color: black;
-  background-image: url("/assets/backgrounds/h_img.jpg");
+  background-image: url("../assets/backgrounds/h_img.jpg");
   height: 100%;
   background-size: 100%;
+  background-repeat: no-repeat;
 }
 
 #mouse {
@@ -60,7 +62,7 @@ img {
 
 .services {
   padding: 85px;
-  background-image: url("/assets/backgrounds/s_image.jpg");
+  background-image: url("../assets/backgrounds/s_image.jpg");
   background-repeat: no-repeat;
 }
 
@@ -105,7 +107,7 @@ img {
 .contact {
   padding-top: 35px;
   padding-bottom: 40px;
-  background-image: url("/assets/backgrounds/c_image.jpg");
+  background-image: url("../assets/backgrounds/c_image.jpg");
   background-repeat: no-repeat;
 }
 .contact-us {
