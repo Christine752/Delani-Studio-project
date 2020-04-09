@@ -1,6 +1,6 @@
 # DELANI STUDIO PROJECT
 
-#### This project is a landing page for a fictional studio under the name Delani Studio.
+#### This project is a landing page for a designing studio under the name Delani Studio.
 
 Latest updated version is on 9th April 2020.
 
@@ -29,6 +29,7 @@ The site was created using HTML and JavaScript as the primary languages, with Vi
 ## Support and contact details
 
 For any issues, queries, or concerns about this project/site, kindly reach out to me through these handles:
+
 Gmail : njeri.mugamby@gmail.com
 Yahoo : njeri.mugamby21@yahoo.com
 
